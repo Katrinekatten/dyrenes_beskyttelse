@@ -1,0 +1,10 @@
+.examples {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.example_section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
