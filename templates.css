@@ -1,0 +1,16 @@
+.examples {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.templates_section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.template_text {
+  grid-column: 2/4;
+  margin-right: 50px;
+}

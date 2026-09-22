@@ -22,6 +22,8 @@ header {
   padding-bottom: 100%;
   align-items: center;
   margin-top: 20px;
+  margin-left: 40px;
+  position: fixed;
 }
 main {
   grid-column: 2/6;
