@@ -13,6 +13,7 @@ body {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   gap: none;
   background-color: var(--bg-color);
+  margin-bottom: 50px;
 }
 header {
   grid-column: 1/2;
