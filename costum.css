@@ -28,7 +28,7 @@ main {
 .navbar {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   gap: 20px;
   margin-top: 50px;
 }
@@ -40,7 +40,7 @@ a {
   font-size: 24px;
 }
 a:hover {
-  scale: 120%;
+  scale: 110%;
 }
 .logo img {
   width: 200px;
