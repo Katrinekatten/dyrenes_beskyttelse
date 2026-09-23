@@ -103,3 +103,12 @@ p {
 section {
   margin-bottom: 100px;
 }
+.rubik_black .big_letters,
+.rubik_black .fontforvisual p {
+  font-weight: var(--black);
+}
+
+.rubik_regular .big_letters,
+.rubik_regular .fontforvisual2 p {
+  font-weight: var(--regular);
+}
